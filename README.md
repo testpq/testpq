@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=testpq&show_icons=true" alt="stats"/>
 
   <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testpq&layout=compact&langs_count=7&color=55511151"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testpq&layout=compact&langs_count=7&color=55543151"/>
   <br/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=testpq&theme=omni&color=55511151" alt="stats"/>
   <br/>
